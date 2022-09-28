@@ -1,5 +1,7 @@
 .key {
-  border: 1px solid red;
+  border: .4rem solid red;
+  border-radius: .5rem;
+  margin: 1rem;
 }
 
 .keys {
